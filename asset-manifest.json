@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/keep-talking-and-nobody-explodes/static/css/main.d1b05096.chunk.css",
-    "main.js": "/keep-talking-and-nobody-explodes/static/js/main.e431e635.chunk.js",
-    "main.js.map": "/keep-talking-and-nobody-explodes/static/js/main.e431e635.chunk.js.map",
-    "runtime-main.js": "/keep-talking-and-nobody-explodes/static/js/runtime-main.45af270c.js",
-    "runtime-main.js.map": "/keep-talking-and-nobody-explodes/static/js/runtime-main.45af270c.js.map",
-    "static/js/2.e75a674e.chunk.js": "/keep-talking-and-nobody-explodes/static/js/2.e75a674e.chunk.js",
-    "static/js/2.e75a674e.chunk.js.map": "/keep-talking-and-nobody-explodes/static/js/2.e75a674e.chunk.js.map",
+    "main.css": "/keep-talking-and-nobody-explodes/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/keep-talking-and-nobody-explodes/static/js/main.e5b6b0a7.chunk.js",
+    "main.js.map": "/keep-talking-and-nobody-explodes/static/js/main.e5b6b0a7.chunk.js.map",
+    "runtime-main.js": "/keep-talking-and-nobody-explodes/static/js/runtime-main.4b62c1e1.js",
+    "runtime-main.js.map": "/keep-talking-and-nobody-explodes/static/js/runtime-main.4b62c1e1.js.map",
+    "static/js/2.d41a3d67.chunk.js": "/keep-talking-and-nobody-explodes/static/js/2.d41a3d67.chunk.js",
+    "static/js/2.d41a3d67.chunk.js.map": "/keep-talking-and-nobody-explodes/static/js/2.d41a3d67.chunk.js.map",
     "index.html": "/keep-talking-and-nobody-explodes/index.html",
-    "precache-manifest.52b61f68b83dfac69c845dda997a377a.js": "/keep-talking-and-nobody-explodes/precache-manifest.52b61f68b83dfac69c845dda997a377a.js",
+    "precache-manifest.cc8389d22c4f757c6dae4465a48a6c94.js": "/keep-talking-and-nobody-explodes/precache-manifest.cc8389d22c4f757c6dae4465a48a6c94.js",
     "service-worker.js": "/keep-talking-and-nobody-explodes/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/keep-talking-and-nobody-explodes/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e75a674e.chunk.js.LICENSE": "/keep-talking-and-nobody-explodes/static/js/2.e75a674e.chunk.js.LICENSE",
-    "static/media/logo.svg": "/keep-talking-and-nobody-explodes/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/keep-talking-and-nobody-explodes/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d41a3d67.chunk.js.LICENSE": "/keep-talking-and-nobody-explodes/static/js/2.d41a3d67.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.45af270c.js",
-    "static/js/2.e75a674e.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e431e635.chunk.js"
+    "static/js/runtime-main.4b62c1e1.js",
+    "static/js/2.d41a3d67.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e5b6b0a7.chunk.js"
   ]
 }
