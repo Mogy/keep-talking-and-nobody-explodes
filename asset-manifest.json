@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/keep-talking-and-nobody-explodes/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/keep-talking-and-nobody-explodes/static/js/main.e5b6b0a7.chunk.js",
-    "main.js.map": "/keep-talking-and-nobody-explodes/static/js/main.e5b6b0a7.chunk.js.map",
+    "main.js": "/keep-talking-and-nobody-explodes/static/js/main.a8cecf52.chunk.js",
+    "main.js.map": "/keep-talking-and-nobody-explodes/static/js/main.a8cecf52.chunk.js.map",
     "runtime-main.js": "/keep-talking-and-nobody-explodes/static/js/runtime-main.4b62c1e1.js",
     "runtime-main.js.map": "/keep-talking-and-nobody-explodes/static/js/runtime-main.4b62c1e1.js.map",
-    "static/js/2.d41a3d67.chunk.js": "/keep-talking-and-nobody-explodes/static/js/2.d41a3d67.chunk.js",
-    "static/js/2.d41a3d67.chunk.js.map": "/keep-talking-and-nobody-explodes/static/js/2.d41a3d67.chunk.js.map",
+    "static/js/2.b2de4bef.chunk.js": "/keep-talking-and-nobody-explodes/static/js/2.b2de4bef.chunk.js",
+    "static/js/2.b2de4bef.chunk.js.map": "/keep-talking-and-nobody-explodes/static/js/2.b2de4bef.chunk.js.map",
     "index.html": "/keep-talking-and-nobody-explodes/index.html",
-    "precache-manifest.cc8389d22c4f757c6dae4465a48a6c94.js": "/keep-talking-and-nobody-explodes/precache-manifest.cc8389d22c4f757c6dae4465a48a6c94.js",
+    "precache-manifest.dcc416580874b62bb6fc66d5d6e9d2df.js": "/keep-talking-and-nobody-explodes/precache-manifest.dcc416580874b62bb6fc66d5d6e9d2df.js",
     "service-worker.js": "/keep-talking-and-nobody-explodes/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/keep-talking-and-nobody-explodes/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.d41a3d67.chunk.js.LICENSE": "/keep-talking-and-nobody-explodes/static/js/2.d41a3d67.chunk.js.LICENSE"
+    "static/js/2.b2de4bef.chunk.js.LICENSE": "/keep-talking-and-nobody-explodes/static/js/2.b2de4bef.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.4b62c1e1.js",
-    "static/js/2.d41a3d67.chunk.js",
+    "static/js/2.b2de4bef.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.e5b6b0a7.chunk.js"
+    "static/js/main.a8cecf52.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/keep-talking-and-nobody-explodes/precache-manifest.cc8389d22c4f757c6dae4465a48a6c94.js"
+  "/keep-talking-and-nobody-explodes/precache-manifest.dcc416580874b62bb6fc66d5d6e9d2df.js"
 );
 
 self.addEventListener('message', (event) => {
